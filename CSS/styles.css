@@ -87,11 +87,11 @@ header a:hover {
 
 #showcase{
   min-height: 400px;
-  background:url("../Images/community-services.png") 0 -100px;
+  background:url("../Images/community-services.jpeg") 0 -100px;
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
-  color: #ffffff;
+  color: #000000;
 }
 
 #showcase h1{
