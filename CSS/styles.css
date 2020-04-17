@@ -183,12 +183,12 @@ ul#services li {
   }
   #Newsletter button, .quote button{
     display: block;
-    width: 100%;
+    width: 50%;
     margin-top: 5px;
   }
 
   #Newsleter form input[type="email"], .quote input, .quote textarea{
-    width: 100%;
+    width: 50%;
     margin-bottom: 5px;
 
   }
